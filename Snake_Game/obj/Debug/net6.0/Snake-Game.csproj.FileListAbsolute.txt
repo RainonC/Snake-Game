@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\Rainon Kaska TARgv22\28.03_Rainon\bin\Debug\net6.0\Snake-Game.exe
+C:\Users\opilane\source\repos\Rainon Kaska TARgv22\28.03_Rainon\bin\Debug\net6.0\Snake-Game.deps.json
+C:\Users\opilane\source\repos\Rainon Kaska TARgv22\28.03_Rainon\bin\Debug\net6.0\Snake-Game.runtimeconfig.json
+C:\Users\opilane\source\repos\Rainon Kaska TARgv22\28.03_Rainon\bin\Debug\net6.0\Snake-Game.dll
+C:\Users\opilane\source\repos\Rainon Kaska TARgv22\28.03_Rainon\bin\Debug\net6.0\Snake-Game.pdb
+C:\Users\opilane\source\repos\Rainon Kaska TARgv22\28.03_Rainon\obj\Debug\net6.0\Snake-Game.csproj.AssemblyReference.cache
+C:\Users\opilane\source\repos\Rainon Kaska TARgv22\28.03_Rainon\obj\Debug\net6.0\Snake-Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\Rainon Kaska TARgv22\28.03_Rainon\obj\Debug\net6.0\Snake-Game.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Rainon Kaska TARgv22\28.03_Rainon\obj\Debug\net6.0\Snake-Game.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Rainon Kaska TARgv22\28.03_Rainon\obj\Debug\net6.0\Snake-Game.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Rainon Kaska TARgv22\28.03_Rainon\obj\Debug\net6.0\Snake-Game.dll
+C:\Users\opilane\source\repos\Rainon Kaska TARgv22\28.03_Rainon\obj\Debug\net6.0\refint\Snake-Game.dll
+C:\Users\opilane\source\repos\Rainon Kaska TARgv22\28.03_Rainon\obj\Debug\net6.0\Snake-Game.pdb
+C:\Users\opilane\source\repos\Rainon Kaska TARgv22\28.03_Rainon\obj\Debug\net6.0\Snake-Game.genruntimeconfig.cache
+C:\Users\opilane\source\repos\Rainon Kaska TARgv22\28.03_Rainon\obj\Debug\net6.0\ref\Snake-Game.dll

@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\Rainon Kaska TARgv22\28.03_Rainon\bin\Debug\net6.0\28.03_Rainon.exe
+C:\Users\opilane\source\repos\Rainon Kaska TARgv22\28.03_Rainon\bin\Debug\net6.0\28.03_Rainon.deps.json
+C:\Users\opilane\source\repos\Rainon Kaska TARgv22\28.03_Rainon\bin\Debug\net6.0\28.03_Rainon.runtimeconfig.json
+C:\Users\opilane\source\repos\Rainon Kaska TARgv22\28.03_Rainon\bin\Debug\net6.0\28.03_Rainon.dll
+C:\Users\opilane\source\repos\Rainon Kaska TARgv22\28.03_Rainon\bin\Debug\net6.0\28.03_Rainon.pdb
+C:\Users\opilane\source\repos\Rainon Kaska TARgv22\28.03_Rainon\obj\Debug\net6.0\28.03_Rainon.csproj.AssemblyReference.cache
+C:\Users\opilane\source\repos\Rainon Kaska TARgv22\28.03_Rainon\obj\Debug\net6.0\28.03_Rainon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\Rainon Kaska TARgv22\28.03_Rainon\obj\Debug\net6.0\28.03_Rainon.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Rainon Kaska TARgv22\28.03_Rainon\obj\Debug\net6.0\28.03_Rainon.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Rainon Kaska TARgv22\28.03_Rainon\obj\Debug\net6.0\28.03_Rainon.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Rainon Kaska TARgv22\28.03_Rainon\obj\Debug\net6.0\28.03_Rainon.dll
+C:\Users\opilane\source\repos\Rainon Kaska TARgv22\28.03_Rainon\obj\Debug\net6.0\refint\28.03_Rainon.dll
+C:\Users\opilane\source\repos\Rainon Kaska TARgv22\28.03_Rainon\obj\Debug\net6.0\28.03_Rainon.pdb
+C:\Users\opilane\source\repos\Rainon Kaska TARgv22\28.03_Rainon\obj\Debug\net6.0\28.03_Rainon.genruntimeconfig.cache
+C:\Users\opilane\source\repos\Rainon Kaska TARgv22\28.03_Rainon\obj\Debug\net6.0\ref\28.03_Rainon.dll
